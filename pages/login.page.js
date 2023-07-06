@@ -22,7 +22,7 @@ export default class LoginPage {
         console.log(this.preencherSenha(senha))
         console.log(this.clickEntrar())
 
-        return true
+        return false
 
     }
 
